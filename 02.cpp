@@ -74,8 +74,8 @@ void createtable(string key) {
 }
 int searchrow(char ch) {
 	int i,j;
-	if(ch=='j')
-	ch='i';
+	if(ch=='J')
+	ch='I';
 	for(i=0;i<5;i++) {
 		for(j=0;j<5;j++) {
 			if(ch==table[i][j])
@@ -85,8 +85,8 @@ int searchrow(char ch) {
 }
 int searchcol(char ch) {
 	int i,j;
-	if(ch=='j')
-	ch='i';
+	if(ch=='J')
+	ch='I';
 	for(i=0;i<5;i++) {
 		for(j=0;j<5;j++) {
 			if(ch==table[i][j])
