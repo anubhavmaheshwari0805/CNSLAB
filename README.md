@@ -1,4 +1,4 @@
-#CNSLAB
+# CNSLAB
 1. Implement Caesar Cipher encryption & Decryption technique which is by replacing each character by another character that will be some fixed number of positions down to it.
 2. Demonstrate the playfair cipher, consider the key table 5×5 grid of alphabets that acts as the key for encrypting the plaintext.
 3. Implement Data encryption and decryption using Hill Cipher method.
