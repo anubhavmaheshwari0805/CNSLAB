@@ -4,6 +4,6 @@
 3. Implement Data encryption and decryption using Hill Cipher method.
 4. Encrypt the plaintext we using a Vigenere table that consists of the alphabet from A to Z written out 26 times in different rows, further each alphabet must be shifted cyclically to the left compared to the previous alphabet.
 5. Implement Rail fence cipher technique using the row & Column Transformation.
-6. Demonstrate the Data Encryption Standard based on the two fundamental attributes of cryptography: substitution (also called as confusion) and transposition (also called as diffusion).
+6. Demonstrate the Simplified Data Encryption Standard based on the two fundamental attributes of cryptography: substitution (also called as confusion) and transposition (also called as diffusion).
 7. Execute the program for simple RSA algorithm to encrypt and decrypt the data.
 8. Implement diffie Hellman (DH) key exchange algorithm as a method for securely exchanging cryptographic keys over a public communications channel.
